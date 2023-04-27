@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112887801536",
+    "project_id": "scoutonew",
+    "storage_bucket": "scoutonew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112887801536:android:d061447cfe9767a19faf25",
+        "android_client_info": {
+          "package_name": "com.example.scoutonew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112887801536-b55fkqpthdfvjh61h0in8dfahat9kp8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCzMKFFEfH55_VYWlaGJ91czvVCG6rFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112887801536-b55fkqpthdfvjh61h0in8dfahat9kp8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
